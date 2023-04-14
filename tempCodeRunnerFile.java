@@ -1,0 +1,4 @@
+interface Vehical {
+    void speed();
+
+}
